@@ -10,6 +10,8 @@ Use `Alt-P` to toggle the overlay.
 
 
 ## Installation from source
+Download MultiPiP project
+
 Go to chrome://extensions
 
 Enable 'developer mode' (top right)
