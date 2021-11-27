@@ -1,7 +1,7 @@
 
 # MultiPiP in Google Meet
 See all participants of Google Meet conferences in an overlay while working in other apps at the same time!  
-Use `Alt-P` to toggle the overlay.
+Use `Alt-P` to toggle the overlay. Get it on the [Chrome Web Store](https://chrome.google.com/webstore/detail/multipip-for-google-meet/bamoofahhbcbihfapciphcigibidhani/)
 
 ### While working:
 ![overlay](overlay.png)
